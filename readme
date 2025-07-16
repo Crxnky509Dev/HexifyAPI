@@ -24,3 +24,5 @@ git clone https://github.com/Crxnky509Dev/hexifyapi.git
 
 
 You can get your api key in are discord server by doing /apikey create or h!apikey  this command is resticted to Server Owners Only
+
+You can get the api as a npm package here: https://www.npmjs.com/package/hexify-api
