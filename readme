@@ -1,0 +1,24 @@
+# 🔑 Hexify API System
+
+The Hexify API allows server owners to securely access and manage their Discord server data through authenticated HTTP endpoints. This repository includes the backend logic for API key creation, verification, and data retrieval used by the [Hexify Dashboard](https://cp.hexifybot.xyz).
+
+---
+
+## 🌐 Features
+
+- ✅ API key creation (guild-owner only)
+- 🔐 API key validation middleware
+- 🧩 Dashboard module for managing keys
+- 📊 Server data endpoints (settings, stats, etc.)
+- 🧼 Key revocation support
+- 🛡️ Built-in authentication and security
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Crxnky509Dev/hexifyapi.git
+cd hexify-api
