@@ -21,4 +21,6 @@ The Hexify API allows server owners to securely access and manage their Discord 
 
 ```bash
 git clone https://github.com/Crxnky509Dev/hexifyapi.git
-cd hexify-api
+
+
+You can get your api key in are discord server by doing /apikey create  this command is resticted to Server Owners Only
